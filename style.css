@@ -1,0 +1,11 @@
+body{
+background: rgba(0, 0, 0, 0);
+padding:0;
+margin:0;
+border:0;
+color:rgb(255, 102, 153);
+}
+
+header{
+  position: absolute;
+}
